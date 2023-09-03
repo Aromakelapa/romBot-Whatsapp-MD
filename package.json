@@ -1,0 +1,23 @@
+{
+  "name": "rombot-whatsapp-md",
+  "version": "1.0.0",
+  "description": "Simple bot WhatsApp using rDev API",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aromakelapa/romBot-Whatsapp-MD.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp"
+  ],
+  "author": "Aromakelapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aromakelapa/romBot-Whatsapp-MD/issues"
+  },
+  "homepage": "https://github.com/Aromakelapa/romBot-Whatsapp-MD#readme"
+}
