@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/Aromakelapa/romBot-Whatsapp-MD/issues"
   },
-  "homepage": "https://github.com/Aromakelapa/romBot-Whatsapp-MD#readme"
+  "homepage": "https://github.com/Aromakelapa/romBot-Whatsapp-MD#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "chalk": "^5.3.0",
+    "qrcode-terminal": "^0.12.0",
+    "spinnies": "^0.5.1",
+    "whatsapp-web.js": "^1.22.1"
+  }
 }
